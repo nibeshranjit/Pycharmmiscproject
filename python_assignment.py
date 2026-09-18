@@ -391,3 +391,6 @@ for num in numbers:
         counts[num] = 1
 top_element = max(counts, key=counts.get)
 print(top_element)
+
+print ('*')
+       

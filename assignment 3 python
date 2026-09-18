@@ -1,0 +1,25 @@
+#Write a Python function to remove all occurrences of a specified value from a list.
+#Input: [1, 2, 3, 4, 5, 3], Value=3
+#Output: [1, 2, 4, 5]
+
+nums = [1, 2, 3, 4, 5, 3]
+val = 3
+result = []
+
+for i in nums:
+    if i != val:
+        result.append(i)
+
+print(result)
+
+print(*)
+
+Reverse a String
+#Write a Python function to reverse a given string.
+#Input: "hello"
+#Output: "olleh"
+chars = "hello"
+char[] = list(chars)
+print char[]
+
+    
