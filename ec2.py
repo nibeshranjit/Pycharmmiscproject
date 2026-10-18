@@ -1,0 +1,1 @@
+scp -i EC2_keypair.pem zipcodes.csv  ubuntu@ec2-3-21-245-142.us-east-2.compute.amazonaws.com:~/data
