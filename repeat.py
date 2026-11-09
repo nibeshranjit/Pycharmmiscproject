@@ -87,4 +87,4 @@ for i in range(len(input_list)):
     for j in range(i + 1, len(input_list)):
         if input_list[i] + input_list[j] == sum_value:
             pairs.append((input_list[i], input_list[j]))
-print(pairs)  # Output: [(1, 5), (2, 4
+print(pairs)  # Output: [(1, 5), (2, 4);
